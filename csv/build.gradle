@@ -15,13 +15,13 @@ ext {
     retrofit_version="2.4.0"
 
     bintrayRepo = 'AndroidMaven'
-    bintrayName = 'Converter-CSV'
+    bintrayName = 'Retrofit2ConverterCSV'
 
     publishedGroupId = 'com.riningan.retrofit2'
     libraryName = 'Converter-CSV'
     artifact = 'converter-csv'
 
-    libraryDescription = 'Android log util library.'
+    libraryDescription = 'A Converter which uses Gson for serialization to and from CSV (via json).'
 
     siteUrl = 'https://github.com/Riningan/Retrofit2ConverterCSV'
     gitUrl = 'https://github.com/Riningan/Retrofit2ConverterCSV.git'
