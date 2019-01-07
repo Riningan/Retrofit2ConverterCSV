@@ -19,7 +19,7 @@ Add dependencies in build.gradle of your module.
 
 ```groovy
 dependencies {
-  implementation 'com.riningan.retrofit2:converter-csv:1.0'
+  implementation 'com.riningan.retrofit2:converter-csv:1.1'
 }
 ```
 

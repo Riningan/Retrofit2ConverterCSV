@@ -6,8 +6,8 @@ android {
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
     }
 }
 
@@ -26,7 +26,7 @@ ext {
     siteUrl = 'https://github.com/Riningan/Retrofit2ConverterCSV'
     gitUrl = 'https://github.com/Riningan/Retrofit2ConverterCSV.git'
 
-    libraryVersion = '1.0'
+    libraryVersion = '1.1'
 
     developerId = 'Riningan'
     developerName = 'Vadim Akhmarov'
