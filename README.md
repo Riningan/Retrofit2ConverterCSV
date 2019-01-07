@@ -1,6 +1,6 @@
 # Retrofit2ConverterCSV
 
-[ ![Download](https://api.bintray.com/packages/riningan/AndroidMaven/Retrofit2ConverterCSV/images/download.svg?version=1.0) ](https://bintray.com/riningan/AndroidMaven/Retrofit2ConverterCSV/1.0/link)
+[ ![Download](https://api.bintray.com/packages/riningan/AndroidMaven/Retrofit2ConverterCSV/images/download.svg) ](https://bintray.com/riningan/AndroidMaven/Retrofit2ConverterCSV/_latestVersion)
 
 Work via [gson converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson).
 
